@@ -193,3 +193,6 @@ JSON stands for JavaScript Object Notation which is a light weight data intercha
     }
 }
 ```
+## References
+1. [Pythonist](https://youtube.com/playlist?list=PLMOobVGrchXN5tKYdyx-d2OwwgxJuqDVH)
+2. [Tech With Tim](https://www.youtube.com/watch?v=xIgPMguqyws&t=604s)
